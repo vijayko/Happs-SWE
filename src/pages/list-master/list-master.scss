@@ -1,0 +1,33 @@
+page-list-master {
+
+}
+
+.item-md ion-avatar ion-img, .item-md ion-avatar img {
+    border-radius: 0%;
+    overflow: hidden;
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.item-md p {
+	color: #e8e8e8;
+}
+
+
+.tell-us-input-text {
+	border: 1px solid #6b6b6b;
+	padding: 0.5em;
+}
+
+.input-box-wrapper {
+	padding: 1em;
+}
+
+.add-update-text {
+	padding: 2em 1.5em 1em 2em;
+	font-size: 1.5em;
+	cursor: pointer;
+}
+

@@ -1,0 +1,7 @@
+{
+  "name": "happs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
